@@ -63,3 +63,8 @@ example3.addEventListener("click", function(){
     h1.style.fontSize = "20px";
 
 })
+
+example4.addEventListener("click", function(){
+    let example4 = document.querySelector("h1");
+    h1.innerText++;
+})
