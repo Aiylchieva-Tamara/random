@@ -51,3 +51,9 @@ example1.addEventListener("click", function(){
 //     return "#" + color;
 // }
 })
+
+example2.addEventListener("click", function(){
+    let example2 = document.querySelector("h1");
+    example2.style.fontSize = "70px";
+
+})
