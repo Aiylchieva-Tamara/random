@@ -57,3 +57,9 @@ example2.addEventListener("click", function(){
     example2.style.fontSize = "70px";
 
 })
+
+example3.addEventListener("click", function(){
+    let example3 = document.querySelector("h1");
+    h1.style.fontSize = "20px";
+
+})
